@@ -1,7 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>http://harnesslogic.com/cdn-cgi/l/email-protection#7c14191010133c141d0e12190f0f10131b151f521f1311</loc>
+  <loc>https://harnesslogic.com/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://harnesslogic.com/about.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://harnesslogic.com/services.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://harnesslogic.com/capabilities.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://harnesslogic.com/contact.html</loc>
   <changefreq>monthly</changefreq>
 </url>
 </urlset>
