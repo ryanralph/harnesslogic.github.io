@@ -41,8 +41,7 @@
 })();
 
 (function contactForm() {
-  // TODO before launch: replace YOUR_FORM_ID with the real Formspree form ID.
-  var FORMSPREE_ENDPOINT = "https://formspree.io/f/YOUR_FORM_ID";
+  var FORMSPREE_ENDPOINT = "https://formspree.io/f/mbgjkqbe";
 
   var form = document.getElementById("contact-form");
   if (!form) return;
