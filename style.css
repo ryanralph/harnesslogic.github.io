@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: "Slussen";
-  src: url("/assets/fonts/Slussen-Variable.woff2") format("woff2");
+  src: url("assets/fonts/Slussen-Variable.woff2") format("woff2");
   font-weight: 100 900;
   font-stretch: 60% 140%;
   font-style: normal;
@@ -11,7 +11,7 @@
 
 @font-face {
   font-family: "Slussen Mono";
-  src: url("/assets/fonts/Slussen-Mono-Variable.woff2") format("woff2");
+  src: url("assets/fonts/Slussen-Mono-Variable.woff2") format("woff2");
   font-weight: 100 900;
   font-style: normal;
   font-display: swap;
